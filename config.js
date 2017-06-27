@@ -1,6 +1,6 @@
 module.exports = {
 	port 			: process.env.PORT || 8080,
-	database 		: 'mongodb://admin:passw0rd@ds030500.mlab.com:30500/celevi',
+	database 		: 'mongodb://admin:passw0rd@ds032340.mlab.com:32340/celevi',
 	domain  	 	: 'https://celevideploy.herokuapp.com',
 	tokenKey 		: 'celevi-key',
 	cryptoAlgorithm	: 'aes-256-ctr',
