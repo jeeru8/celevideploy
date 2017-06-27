@@ -1,0 +1,7 @@
+{
+  "name": "Celevi",
+  "description": "Website of Celevi",
+  "repository": "https://github.com/jeeru8/celevideploy",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
